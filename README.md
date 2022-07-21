@@ -1,3 +1,16 @@
+**Este projeto foi um fork realizado conforme orientação do
+Instrutor Rodrigo Peleias para o Desafio de Projeto 2 do 
+Curso de Framework Spring do TQI Fullstack Developer da DIO.
+
+Se tratou da aquisição de conhecimentos avançados na utilização
+do Framework assim como de diversos de seus patterns, ao final foi
+solicitado a inserção da função "decrement" no código. 
+Como ainda estou em aprendizagem, fiz uma busca pela internet até
+encontrar algo que me ajuda-se. Não consegui rodar direito o
+aplicativo, de alguma forma apresenta erros em minha máquina 
+referente ao "lombock". *Mantive todo o descritivo do projeto 
+original abaixo.
+
 <h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
 Nesta live coding, vamos aprender a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Vamos desenvolver testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, vamos também mostrar como desenvolver funcionalidades da nossa API através da prática do TDD.
@@ -13,13 +26,13 @@ Durante a sessão, serão abordados os seguintes tópicos:
 
 Para executar o projeto no terminal, digite o seguinte comando:
 
-```shell script
+```shell
 mvn spring-boot:run 
 ```
 
 Para executar a suíte de testes desenvolvida durante a live coding, basta executar o seguinte comando:
 
-```shell script
+```shell
 mvn clean test
 ```
 
@@ -51,6 +64,3 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 * [Referência pirâmide de testes - Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation)
 
 [Neste link](https://drive.google.com/file/d/1KPh19mvyKirorOI-UsEYHKkmZpet3Ks6/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
-
-
-
